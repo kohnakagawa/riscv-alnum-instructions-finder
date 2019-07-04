@@ -1,5 +1,5 @@
 CXX = g++
-SPIKE_DIR = ../riscv-isa-sim-v-ext
+SPIKE_DIR = ../riscv-isa-sim
 
 INCLUDE = -I$(SPIKE_DIR)/riscv -I$(SPIKE_DIR)/build -I$(SPIKE_DIR)/softfloat
 
